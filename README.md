@@ -5,6 +5,7 @@ This repository contains a low-latency trading algorithm implemented in C++. It'
 Before you run this application, ensure that you have the following libraries installed: 
 
 [Libcurl](https://curl.haxx.se/docs/install.html): A client-side URL transfer library. 
+
 [Jsoncpp](https://github.com/open-source-parsers/jsoncpp): A C++ library for interacting with JSON data. 
 
 
